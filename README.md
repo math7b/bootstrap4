@@ -6,6 +6,6 @@ For start this repo:
 
 -Install the node dependences
 
--put this sass in your PowerShell
+-put this sass in your PowerShell</br>
  sass --watch node_modules/bootstrap/scss:node_modules/bootstrap/compiler node_modules/font-awesome/scss:node_modules/font-awesome/css
  
